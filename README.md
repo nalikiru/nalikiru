@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nalikiru
+- 👋 Hi, I’m kiru
 - 👀 I’m interested in software engenering
 - 🌱 I’m currently learning WEB devlopmment
 - 💞️ I’m looking to collaborate on making software
